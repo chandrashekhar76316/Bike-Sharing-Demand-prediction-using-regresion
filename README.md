@@ -1,4 +1,5 @@
-Bike Sharing Demand Prediction
+Bike Sharing Demand Prediction.
+
 In urban environments, rental bikes serve as a vital component of public mobility, enhancing accessibility and reducing waiting times for commuters. However, ensuring a stable and adequate supply of rental bikes at all times is essential for optimizing user experience and urban mobility infrastructure.
 
 This project aims to address the challenge of predicting the demand for rental bikes on an hourly basis, enabling rental service providers to efficiently allocate resources and ensure a consistent supply of bikes to meet user needs. By leveraging historical rental data, alongside factors such as weather conditions, day of the week, and time of day, predictive models will be developed to forecast the expected bike count for each hour.
